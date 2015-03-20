@@ -1,3 +1,3 @@
-# batesUltimate
+# railsPractice
 
-New website for Bates Ultimate.  Made rails app for practice.  
+Reading Daniel Kehoe's book on rails, making practice app
