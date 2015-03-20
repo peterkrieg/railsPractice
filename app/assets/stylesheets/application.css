@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ .countdown{
+ 	color: darkblue;
+ 	font-weight: bold;
+ 	font-size: 1.5em;
+ }
