@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+$pcolor: blue;
+
+p{
+	color: $pcolor;
+}
+
+footer{
+	background: darkgreen;
+}
+
+.countdown{
+	font-size: 2em;
+	color: darkblue;
+	font-weight: bold;
+	font-style: italic;
+}
