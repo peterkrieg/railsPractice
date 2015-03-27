@@ -48,3 +48,9 @@ ul.nav li a {
   color: #b94a48;
 }
 
+ul.nav li{
+  display: inline-block;
+  width: 33%;
+  color: red;
+  background: purple;
+}

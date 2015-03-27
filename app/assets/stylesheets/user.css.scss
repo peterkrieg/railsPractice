@@ -1,0 +1,13 @@
+ul{
+	&.nav{
+		li{
+			a{
+				color: tomato;
+				text-align: center;
+				&:hover{
+					color: gold;
+				}
+			}
+		}
+	}
+}
