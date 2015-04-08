@@ -14,3 +14,13 @@ h3{
 			</div>
 	</div>
 </div>
+
+
+<div class="form" style="width: 50%; margin-left: 25%;">
+	<%= simple_form_for :contact, url: contact_path do |form| %>
+		<%= form.input :name, autofocus: true %>
+		<%= form.input :email%>
+		<%= form.input :content, as: :text %>
+		<%= form.button :submit, 'Submit', class: 'submit' %>
+	<% end %>
+</div>
